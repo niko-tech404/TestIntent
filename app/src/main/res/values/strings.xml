@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TestIntent</string>
+    <string name="send_sms_txt">Send SMS</string>
+    <string name="dial_btn">Chiama</string>
+    <string name="set_alarm_txt">SetAlarm</string>
+    <string name="set_event_btn">Set Event</string>
 </resources>
